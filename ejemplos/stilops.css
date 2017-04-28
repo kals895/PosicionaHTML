@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+#DS{
+	border:1px solid rgb(0,0,0);
+	width:400px;
+	height:400px;
+	background:rgb(0,255,0);
+	
+	
+	display:none;
+	
+	
+	
+	
+	}
+	#FT{
+	border:1px solid rgb(0,0,0);
+	width:400px;
+	height:400px;
+	background:rgb(0,0,255);
+	display:none;
+		float:left;
+		}
+		#Marg{
+			height:900px;
+	background:rgb(255,0,0);
+	
+	margin-top:20px;
+	margin-left:5px;
+	margin-bottom:10px;
+	margin-right:16px;
+	display:none;
+			}
+			
+			#Pos{
+				width:300px;
+				height:600px;
+				
+				position:relative;
+				
+				top:5px;
+				left:10px;
+				background:rgb(0,255,255);
+				display:none;}
+				
+				#OF{
+					width:300px;
+					height:80px;
+					background:rgb(153,0,255);
+					
+					
+					overflow:;
+					
+					
+					}
+			
